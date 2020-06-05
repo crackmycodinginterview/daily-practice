@@ -1,0 +1,4 @@
+Difficulty: 1
+
+Given a number, find the sum of all the digits of it.
+If number is negative return -1
