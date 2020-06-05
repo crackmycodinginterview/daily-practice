@@ -1,2 +1,4 @@
+Difficulty: 1
+
 Find if the given integer is odd or even.
 Condition: Don't use mod operation.

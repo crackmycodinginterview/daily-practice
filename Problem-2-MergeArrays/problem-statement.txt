@@ -1,0 +1,4 @@
+Difficulty: 2
+
+You are given two arrays, your task is to merge both of them and create a new array such that 
+it is sorted and contains no duplicate elements.

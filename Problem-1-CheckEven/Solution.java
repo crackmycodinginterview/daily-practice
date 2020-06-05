@@ -1,6 +1,6 @@
 class Solution {
 
-    // Method 1: Using Bitwise Operator
+    // Method 1: Using Bitwise Operator (Time - O(1), Space - O(1))
     /*
     explanation:
         Let's take an example of the binary representation of few numbers
@@ -12,7 +12,7 @@ class Solution {
         If you observe carefully, we can observe that all even numbers ends with a '0' in their binary representiation.
         Similarly all the odd numbers ends with  a '1'
 
-        Conclusion: We only need to check whether the last bit is '0' or '1'. This can we done using Bitwise AND Operator(&).
+        Conclusion: We only need to check whether the last bit is '0' or '1'. This can be done using Bitwise AND Operator(&).
         So if we performed '&' operation of the input integer with 1 then we will get either a 0 or 1 as output depending
         upon whether the number is even or odd.
 
@@ -36,7 +36,7 @@ class Solution {
         return (n & 1) == 0;
     }
 
-    // Method 2: Using Integer Division
+    // Method 2: Using Integer Division (Time - O(1), Space - O(1))
     /*
     explanation:
       When we perform division operation on an integer datatype, no decimal digit is saved in the number.
