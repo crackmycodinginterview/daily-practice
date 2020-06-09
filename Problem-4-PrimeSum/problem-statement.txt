@@ -1,0 +1,4 @@
+Difficulty: 2
+Given a positive integer N, user has to print two numbers N1 and N2, satisfying below condition:
+1. N1 + N2 = N
+2. N1, N2 both should be Prime

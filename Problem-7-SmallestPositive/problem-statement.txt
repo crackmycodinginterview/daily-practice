@@ -1,0 +1,3 @@
+Difficulty: 1
+Find the smallest positive integer in the sorted array
+ex -8, -4, -1, 6, 8, 12, 20, 24

@@ -1,0 +1,4 @@
+Difficulty: 2
+Print numbers from 1 to n, where n is positive integer without using any loops.
+Ex: 5
+1 2 3 4 5

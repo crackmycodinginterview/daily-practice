@@ -1,0 +1,4 @@
+Difficulty: 2
+Print the highest product of 2 numbers in the given integer array O( n ) time
+Ex: 4 -3 6 -5 1 5 2
+30 (6 * 5)

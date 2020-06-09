@@ -1,0 +1,2 @@
+Difficulty: 1
+Integer ARray with 0 and 1 only, at random position. Arrange the array with all 0 first and then 1
