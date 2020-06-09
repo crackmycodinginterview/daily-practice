@@ -1,5 +1,6 @@
 class Solution {
 
+    // Method 1: Recursive Approach (Time - O(n), Space - O(n))
     static void printSeries(int n) {
         if (n == 0) {
             return;

@@ -1,5 +1,6 @@
 class Solution {
 
+    // Method 1: Binary Approach (Space - O(log(n)), Space - O(1))
     static int findMinPositive(int[] a) {
         int leftIndex = 0;
         int rightIndex = a.length - 1;

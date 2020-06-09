@@ -1,5 +1,6 @@
 class Solution {
 
+    // Method 1: Greed Approach (Time - O(n), Space - O(1))
     static int findMaxProductOfTwo(int a[]) {
 
         int minNum = a[0];

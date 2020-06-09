@@ -1,5 +1,6 @@
 class Solution {
 
+    // Method 1: Two Pointers Apprach (Time - O(n), Space - O(1))
     static int[] sort(int a[]){
     
         for(int i = -1, j = a.length; i < j;) {
