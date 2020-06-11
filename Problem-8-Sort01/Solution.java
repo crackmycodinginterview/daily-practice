@@ -1,6 +1,14 @@
 class Solution {
 
     // Method 1: Two Pointers Apprach (Time - O(n), Space - O(1))
+
+    /*
+    We keep to track of two pointers:
+    We find the left most 1 and swap it with the right most 0, this process is carried repeatedly until the array is sorted
+
+    Looking at the code might trick you to think the Time complexitiy is O(n^2)
+    but actually it is O(n) because of the fact every element of the array is visited exactly once.
+    */
     static int[] sort(int a[]){
     
         for(int i = -1, j = a.length; i < j;) {

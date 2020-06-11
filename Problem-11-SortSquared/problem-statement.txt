@@ -1,0 +1,5 @@
+Difficulty: 2
+Given an array of both positive and negative integers (no duplicates in anyway) which are sorted, generate sorted squared array of numbers.
+
+Ex: {-6, -3, -1, 2, 4, 5}
+Op: 1, 4, 9, 16, 25, 36

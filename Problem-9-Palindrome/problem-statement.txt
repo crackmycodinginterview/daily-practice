@@ -1,0 +1,2 @@
+Difficulty 1:
+Check if given string is palindrome or not without using any inbuilt functions.

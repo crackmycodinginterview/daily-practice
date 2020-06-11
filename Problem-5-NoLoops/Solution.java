@@ -2,7 +2,7 @@ class Solution {
 
     // Method 1: Recursive Approach (Time - O(n), Space - O(n))
     static void printSeries(int n) {
-        if (n == 0) {
+        if (n == 0) { // termination condition
             return;
         }
         printSeries(n - 1);

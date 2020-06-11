@@ -1,0 +1,4 @@
+Difficulty: 2
+Sort the given array of elements in O ( n ) time. Array will contain distinct elements from 1 to n
+Ex: [4, 6, 2, 5, 3, 1]
+Op: [1, 2, 3, 4, 5, 6]
