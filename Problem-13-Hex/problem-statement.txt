@@ -1,0 +1,4 @@
+Difficulty: 1
+Given RGB color values in decimal, convert to Hexadecimal color (No inbuilt functions allowed)
+Ex: 60, 145, 94
+Op: #3C915E

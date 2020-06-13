@@ -1,0 +1,4 @@
+Difficulty: 2
+Check if given positive number is power of 2 or not.
+Ex: 256
+Op: true
